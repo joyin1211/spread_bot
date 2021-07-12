@@ -1,0 +1,9 @@
+google-api-python-client==1.7.11
+google-auth==1.6.3
+google-auth-httplib2==0.0.3
+httplib2==0.13.1
+python-telegram-bot==11.1.0
+pymorphy2==0.9.1
+pymorphy2-dicts==2.4.393442.3710985
+pymorphy2-dicts-ru==2.4.417127.4579844
+pymorphy2-dicts-uk==2.4.1.1.1460299261

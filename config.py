@@ -1,3 +1,3 @@
 CREDENTIALS_FILE = 'creds.json'
-spreadsheet_id = '1MHVBhax_09vINTpLQd2Y2SNzYHUrIIeXRKq4_HyJtU4'
-TOKEN = '1252574622:AAH0wz5XmROm4y0X0B3P8X8esTsOh5UCcx8'
+spreadsheet_id = '1M'
+TOKEN = '1'
